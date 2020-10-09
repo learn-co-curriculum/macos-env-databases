@@ -29,4 +29,5 @@ database management system called PostgreSQL.
 
 ### Check Your Work
 
-If you were able to run those commands without any issues, continue below.
+If you were able to run those commands without any issues, continue to the next
+lesson, **Configuring GitHub and Flatiron Student Portal on macOS**.
