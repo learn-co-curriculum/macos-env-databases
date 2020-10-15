@@ -29,5 +29,7 @@ database management system called PostgreSQL.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hv3CYjbNVmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you were able to run those commands without any issues, continue to the next
 lesson, **Configuring GitHub and Flatiron Student Portal on macOS**.
